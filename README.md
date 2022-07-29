@@ -29,11 +29,11 @@ The _safeMint function from the openzeppelin library is called in the mint funct
 
 Hardhat is used to deploy and verify the contract on the Goerli testnet.
 
-The contract address is [link](0x325643D885bAA59f99143Ff47891CE9554E6E791).
+The contract address is [link](https://goerli.etherscan.io/address/0x325643D885bAA59f99143Ff47891CE9554E6E791).
 
 It has been verified on Etherscan. 
 
-Users can see the original [deployment transaction](0x25981dec4278fec6d00c79452cf581c89256ab88fcdb6868c8544ec93e513787) and a test [mint transaction](0xebe70cdb7ab02dd9a2d6655191de511a2b63a84023fc6cfed73fb14884474e66).
+Users can see the original [deployment transaction](https://goerli.etherscan.io/tx/0x25981dec4278fec6d00c79452cf581c89256ab88fcdb6868c8544ec93e513787) and a test [mint transaction](https://goerli.etherscan.io/tx/0xebe70cdb7ab02dd9a2d6655191de511a2b63a84023fc6cfed73fb14884474e66).
 
 ### Back-end Calls to Smart Contract
 
